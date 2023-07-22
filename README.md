@@ -4,8 +4,8 @@
 Hi! I am Aaron, currently a Information Systems Sophomore at Singapore Management University. I speak __Javascript__ and occasionally __Python__ if needed. I bring my projects to life from the __UI design__ all the way to production! 🤖 UI Designer, Business Analyst, Adventurous Globetrotter.
 
 ## More about me 
-&nbsp;&nbsp;&nbsp;&nbsp;🖥️ &nbsp;&nbsp;&nbsp;&nbsp;Currently working on personal VueJS project <br>
-&nbsp;&nbsp;&nbsp;&nbsp;🌱 &nbsp;&nbsp;&nbsp;&nbsp;Currently learning on Vue and Java <br>
+&nbsp;&nbsp;&nbsp;&nbsp;🖥️ &nbsp;&nbsp;&nbsp;&nbsp;Currently working on a API Middleware for Process Automation <br>
+&nbsp;&nbsp;&nbsp;&nbsp;🌱 &nbsp;&nbsp;&nbsp;&nbsp;Currently learning on ExpressJS <br>
 &nbsp;&nbsp;&nbsp;&nbsp;🍎 &nbsp;&nbsp;&nbsp;&nbsp;Loves to experiment with cool gadgets/ technologies <br>
 &nbsp;&nbsp;&nbsp;&nbsp;🏹 &nbsp;&nbsp;&nbsp;&nbsp;Practicing archery to become hawkeye 🎯 <br>
 
