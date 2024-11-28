@@ -1,5 +1,5 @@
 [![Portfolio](https://user-images.githubusercontent.com/104067522/209439718-25b17835-5ed2-440e-a954-1d2db3c31ea1.png)](https://aaronkwah.dev)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/aaronkwah) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronkwah@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronkwah/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaronkwah@gmail.com)
 
 Hi! I am Aaron, currently a Information Systems Sophomore at Singapore Management University. I speak __Javascript__ and occasionally __Python__ if needed. I bring my projects to life from the __UI design__ all the way to production! 🤖 UI Designer, Business Analyst, Adventurous Globetrotter.
 
